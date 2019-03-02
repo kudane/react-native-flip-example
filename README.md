@@ -8,7 +8,7 @@ A flip animated in react-native, using animated api and tranform layout props fo
 
 ```
 cd react-native-flip-example
+
 npm install
-//or
 yarn install
 ```
